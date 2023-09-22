@@ -1,3 +1,5 @@
+Stock Perdiction Forecasting
+
 Objective: To predict the stock price of any company by using LSTM.
 Dataset: Apple Stock Price 2015--2020
 In this project we had focused on the Long Short Term Memory (LSTM) layer model to predict if stock will go up or down.
